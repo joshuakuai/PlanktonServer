@@ -1,7 +1,7 @@
 PlanktonServer
 ==============
 
-A mobile game server framework for iOS
+A mobile app&game server framework for iOS
 
 This project develop for the iOS game "Poket Mage Fight"
 
